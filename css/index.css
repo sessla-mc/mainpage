@@ -144,6 +144,8 @@
 
     .profiles {
         transform: translate(100px,60px);
+        width: 250px;
+        height: 250px;
     }
 
     .string_2 {
